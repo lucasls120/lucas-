@@ -1,0 +1,17 @@
+.objetivos{
+    color: var(--preto);
+    background-color: var(--azul);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 1em 0 0.5em 0.5;
+    font-family: var(--fonte-primaria);
+}
+.Texto__objetivo{
+    background-color: var(--azul-claro);
+    font-family: var(--font-secundaria);
+    font-size: 11px;
+    padding: 1px;
+    border: 5px solid var(--preto-azulado);
+}

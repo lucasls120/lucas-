@@ -1,0 +1,31 @@
+.historico__profissional{
+    color: var(--preto);
+    background-color: var(--azul);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 1em 0 0.5em 0.5;
+    font-family: var(--fonte-primaria);
+}
+.historico{
+    background-color: var(--azul-claro);
+    font-family: var(--font-secundaria);
+    font-size: 11px;
+    text-align: center;
+    border: 5px solid var(--preto-azulado);
+}
+
+.texto__um{
+    margin: 1em;
+}
+
+.texto__dois{
+    margin: 0.5em;
+    font-size: 11;
+}
+
+.texto__tres{
+    margin:0.5em;
+    font-size: 11px;
+}

@@ -1,0 +1,26 @@
+@import url("styles/header.css");
+@import url("styles/imagem.css");
+@import url("styles/contatos.css");
+@import url("styles/objetivo.css");
+@import url("styles/historico-profissional.css");
+@import url("styles/certificacoes.css");
+@import url("styles/formacao.css");
+@import url("styles/habilidades.css");
+@import url("styles/rodape.css");
+
+
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&display=swap');
+
+
+:root {
+    --fonte-primaria: 'Krona One', sans-serif;
+    --font-secundaria: 'Montserrat', sans-serif;
+    --preto-azulado: #2C3333;
+    --azul-teal: #2E4F4F;
+    --azul: #0E8388;
+    --azul-claro: #CBE4DE;
+    --preto: #000000; 
+    --branco: rgb(255, 255, 255);
+}
+

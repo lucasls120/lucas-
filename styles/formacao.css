@@ -1,0 +1,26 @@
+.Formacao{
+    color: #000000;
+    background-color: #0E8388;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 1em 0 0.5em 0.5;
+    font-family: var(--fonte-primaria);
+}
+
+.formacao__academica {
+    background-color: var(--azul-claro);
+    font-family: var(--font-secundaria);
+    font-size: 11px;
+    text-align: center;
+    border: 5px solid var(--preto-azulado);
+}
+
+.formacao__um{
+    margin: 1em;
+}
+
+.formacao__dois{
+    margin: 2em;
+}

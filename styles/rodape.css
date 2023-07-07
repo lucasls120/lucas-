@@ -1,0 +1,27 @@
+.rodape{
+    color: var(--preto);
+    background-color: var(--azul);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 1em 0 0.5em 0.5;
+    font-family: var(--fonte-primaria);
+}
+
+.rodape__icones{
+    align-items: center;
+    background-color: var(--azul-claro);
+    border: 5px solid var(--preto-azulado);
+}
+
+.GitHub{
+    width: 10%;
+    margin: 1em;
+    
+}
+
+.linkedin{
+    width: 10%;
+    margin: 1em;
+}
